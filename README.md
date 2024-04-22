@@ -1,4 +1,6 @@
 # 标注工具整合（图像，点云，文本，音频，视频，医学等）
+> <strong style='font-size:20px;'>还不是很全啦，愿大佬们多多补充</strong>
+
 ### 图像
 - CVAT: [https://github.com/opencv/cvat](https://github.com/opencv/cvat)
 - diffgram: [https://www.diffgram.com/](https://www.diffgram.com/)
@@ -9,7 +11,7 @@
 - Labelbox: [https://github.com/Labelbox/labelbox-python](https://github.com/Labelbox/labelbox-python)
 - VIA-VGG: [https://www.robots.ox.ac.uk/~vgg/software/via/](https://www.robots.ox.ac.uk/~vgg/software/via/)
 - PixelAnnotationTool: [https://github.com/abreheret/PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)
-- X-AnyLabeling: [X-AnyLabeling](X-AnyLabeling)
+- X-AnyLabeling: [https://gitcode.com/CVHub520/X-AnyLabeling](https://gitcode.com/CVHub520/X-AnyLabeling)
 - Universal Data Tool: [https://github.com/UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool)
 
 
