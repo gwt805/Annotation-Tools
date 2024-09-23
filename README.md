@@ -10,6 +10,7 @@
 - VoTT: [https://github.com/microsoft/VoTT](https://github.com/microsoft/VoTT)
 - Labelbox: [https://github.com/Labelbox/labelbox-python](https://github.com/Labelbox/labelbox-python)
 - VIA-VGG: [https://www.robots.ox.ac.uk/~vgg/software/via/](https://www.robots.ox.ac.uk/~vgg/software/via/)
+- labelU: [https://github.com/opendatalab/labelU](https://github.com/opendatalab/labelU)
 - PixelAnnotationTool: [https://github.com/abreheret/PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)
 - X-AnyLabeling: [https://gitcode.com/CVHub520/X-AnyLabeling](https://gitcode.com/CVHub520/X-AnyLabeling)
 - Universal Data Tool: [https://github.com/UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool)
@@ -20,6 +21,7 @@
 - Label Studio: [https://labelstud.io/](https://labelstud.io/)
 - VIA-VGG: [https://www.robots.ox.ac.uk/~vgg/software/via/](https://www.robots.ox.ac.uk/~vgg/software/via/)
 - Kdenlive: [https://github.com/KDE/kdenlive](https://github.com/KDE/kdenlive)
+- labelU: [https://github.com/opendatalab/labelU](https://github.com/opendatalab/labelU)
 
 
 ### 音频
@@ -27,6 +29,7 @@
 - Label Studio: [https://labelstud.io/](https://labelstud.io/)
 - Universal Data Tool: [https://github.com/UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool)
 - VIA-VGG: [https://www.robots.ox.ac.uk/~vgg/software/via/](https://www.robots.ox.ac.uk/~vgg/software/via/)
+- labelU: [https://github.com/opendatalab/labelU](https://github.com/opendatalab/labelU)
 
 
 ### 点云
