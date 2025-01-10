@@ -13,6 +13,7 @@
 - labelU: [https://github.com/opendatalab/labelU](https://github.com/opendatalab/labelU)
 - PixelAnnotationTool: [https://github.com/abreheret/PixelAnnotationTool](https://github.com/abreheret/PixelAnnotationTool)
 - X-AnyLabeling: [https://gitcode.com/CVHub520/X-AnyLabeling](https://gitcode.com/CVHub520/X-AnyLabeling)
+- Face-Annotation-Tool: [Face-Annotation-Tool](https://github.com/Mukosame/Face-Annotation-Tool)
 - Universal Data Tool: [https://github.com/UniversalDataTool/universal-data-tool](https://github.com/UniversalDataTool/universal-data-tool)
 
 
