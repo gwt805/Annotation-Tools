@@ -3,6 +3,7 @@
 
 ### 图像
 - CVAT: [https://github.com/opencv/cvat](https://github.com/opencv/cvat)
+- EiSeg：[https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
 - diffgram: [https://www.diffgram.com/](https://www.diffgram.com/)
 - Label Studio: [https://labelstud.io/](https://labelstud.io/)
 - labelImg: [https://github.com/HumanSignal/labelImg](https://github.com/HumanSignal/labelImg)
@@ -73,3 +74,4 @@
 - mimics: [https://www.materialise.com/](https://www.materialise.com)
 - ITK-Snap: [http://www.itksnap.org/](http://www.itksnap.org/)
 - 3D Slicer: [https://www.slicer.org/](https://www.slicer.org/)
+- Eiseg：[https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
