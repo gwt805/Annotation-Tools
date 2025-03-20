@@ -74,4 +74,4 @@
 - mimics: [https://www.materialise.com/](https://www.materialise.com)
 - ITK-Snap: [http://www.itksnap.org/](http://www.itksnap.org/)
 - 3D Slicer: [https://www.slicer.org/](https://www.slicer.org/)
-- Eiseg：[https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
+- EiSeg：[https://github.com/PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)
