@@ -9,6 +9,7 @@
 - labelImg: [https://github.com/HumanSignal/labelImg](https://github.com/HumanSignal/labelImg)
 - labelme: [https://github.com/labelmeai/labelme](https://github.com/labelmeai/labelme)
 - VoTT: [https://github.com/microsoft/VoTT](https://github.com/microsoft/VoTT)
+- ImageAnnotationTool: [https://github.com/HJN17/ImageAnnotationTool](https://github.com/HJN17/ImageAnnotationTool)
 - Labelbox: [https://github.com/Labelbox/labelbox-python](https://github.com/Labelbox/labelbox-python)
 - VIA-VGG: [https://www.robots.ox.ac.uk/~vgg/software/via/](https://www.robots.ox.ac.uk/~vgg/software/via/)
 - labelU: [https://github.com/opendatalab/labelU](https://github.com/opendatalab/labelU)
