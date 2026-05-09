@@ -36,7 +36,7 @@
 
 
 ### 点云
-- SUSTechPOINTS: ![https://github.com/naurril/SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS)
+- SUSTechPOINTS: [https://github.com/naurril/SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS)
 - bat-3d: [https://github.com/walzimmer/bat-3d](https://github.com/walzimmer/bat-3d)
 - PCAT: [https://github.com/halostorm/PCAT_open_source](https://github.com/halostorm/PCAT_open_source)
 - semantic-segmentation-editor: [https://github.com/MR-520DAI/semantic-segmentation-editor](https://github.com/MR-520DAI/semantic-segmentation-editor)
