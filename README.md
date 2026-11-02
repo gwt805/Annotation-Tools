@@ -39,7 +39,7 @@
 - SUSTechPOINTS: [https://github.com/naurril/SUSTechPOINTS](https://github.com/naurril/SUSTechPOINTS)
 - bat-3d: [https://github.com/walzimmer/bat-3d](https://github.com/walzimmer/bat-3d)
 - PCAT: [https://github.com/halostorm/PCAT_open_source](https://github.com/halostorm/PCAT_open_source)
-- semantic-segmentation-editor: [https://github.com/MR-520DAI/semantic-segmentation-editor](https://github.com/MR-520DAI/semantic-segmentation-editor)
+- semantic-segmentation-editor: [https://github.com/ThinkingInGIS/semantic-segmentation-editor](https://github.com/ThinkingInGIS/semantic-segmentation-editor)
 - Point-Cloud-Annotation-Tool: [https://github.com/springzfx/point-cloud-annotation-tool](https://github.com/springzfx/point-cloud-annotation-tool)
 - labelCloud: [https://github.com/ch-sa/labelCloud](https://github.com/ch-sa/labelCloud)
 - xtreme1: [https://github.com/xtreme1-io/xtreme1](https://github.com/xtreme1-io/xtreme1)
