@@ -47,6 +47,7 @@
 - diffgram: [https://www.diffgram.com/](https://www.diffgram.com/)
 - supeivise: [https://supervise.ly/lidar-3d-cloud](https://supervise.ly/lidar-3d-cloud)
 - L-CAS: [https://github.com/yzrobot/cloud_annotation_tool/tree/devel](https://github.com/yzrobot/cloud_annotation_tool/tree/devel)
+- SCALABEL: [https://github.com/scalabel/scalabel](https://github.com/scalabel/scalabel)
 
 
 ### 文本
